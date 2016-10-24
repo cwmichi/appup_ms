@@ -2,9 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9972d7-7f4f-4e2d-9876-ab2271749a6e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms_first/releases/RELEASES" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/RELEASES" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/bin/appup_ms" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/bin/appup_ms.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/bin/install_upgrade.escript" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/bin/start_clean.boot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/bin/start_erl.cmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/beam" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/beam.smp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/child_setup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/ct_run" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/epmd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erlc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erlexec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/escript" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/heart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/inet_gethost" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/run_erl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/start" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/start_clean.boot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/to_erl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/asn1-4.0/priv/lib/asn1rt_nif.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/crypto-3.6/priv/lib/crypto.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/crypto-3.6/priv/obj/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/et-1.5.1/include/et.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/include/httpd.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/include/mod_auth.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/priv/bin/runcgi.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/dist.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/dist_util.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/file.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/inet.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/inet_sctp.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/net_address.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/include/etop.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/bin/cdv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/bin/etop" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer.tool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer/collapsd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer/exploded.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/erlang_observer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/OTP-PUB-KEY.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/PKCS-FRAME.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/public_key.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/include/observer_backend.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/priv/lib/trace_file_drv.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/priv/lib/trace_ip_drv.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/assert.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/erl_bits.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/erl_compile.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/ms_transform.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/qlc.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/zip.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/syntax_tools-1.7/include/merl.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/tools-2.8/priv/cover.tool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/tools-2.8/priv/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/bin/start_webtool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/conf/mime.types" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/start_info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/tool_management.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/gl.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/glu.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/wx.hrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erl_gl.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erlang-logo32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erlang-logo64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/wxe_driver.so" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.boot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.rel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.script" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/nodetool" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.boot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.rel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.script" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/sys.config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/vm.args" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/RELEASES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/start_erl.data" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src" afterPath="$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl" afterPath="$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rebar_clone/rebar" afterPath="$PROJECT_DIR$/rebar_clone/rebar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms_first/releases/start_erl.data" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/start_erl.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/reltool.config" afterPath="$PROJECT_DIR$/rel/reltool.config" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="appup_ms.iws" />
@@ -49,8 +128,8 @@
       <file leaf-file-name="appup_ms.app.src" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.777778">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.4444444">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -76,11 +155,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="appup_ms.appup" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/apps/appup_ms/ebin/appup_ms.appup">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18872549">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="appup_ms_server.erl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.62963">
-              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            <state vertical-scroll-proportion="-24.333334">
+              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -96,10 +185,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rebar_rel_utils.erl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rebar_rel_utils.erl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rebar_clone/rebar/src/rebar_rel_utils.erl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.803549">
+            <state vertical-scroll-proportion="88.92593">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -127,12 +216,13 @@
         <option value="$PROJECT_DIR$/app_start.sh" />
         <option value="$PROJECT_DIR$/rebar.config" />
         <option value="$PROJECT_DIR$/Makefile" />
-        <option value="$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl" />
-        <option value="$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src" />
         <option value="$PROJECT_DIR$/rebar_clone/rebar/bootstrap" />
         <option value="$PROJECT_DIR$/rebar_clone/rebar/src/rebar_config.erl" />
         <option value="$PROJECT_DIR$/rebar" />
+        <option value="$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl" />
+        <option value="$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src" />
         <option value="$PROJECT_DIR$/rel/reltool.config" />
+        <option value="$PROJECT_DIR$/apps/appup_ms/ebin/appup_ms.appup" />
       </list>
     </option>
   </component>
@@ -182,140 +272,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="appup_ms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms_first" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="releases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms_first" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="releases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appup_ms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="appup_ms" />
@@ -588,7 +544,13 @@
       <option name="project" value="LOCAL" />
       <updated>1477300249247</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="(appup_ms@127.0.0.1)11&gt; release_handler:make_permanent(&quot;2&quot;).&#10;ok&#10;">
+      <created>1477300442071</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1477300442071</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -628,7 +590,8 @@
     <MESSAGE value="vsn 2" />
     <MESSAGE value="vsn 2&#10;&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-appups previous_release=appup_ms_first&#10;==&gt; rel (generate-appups)&#10;Generated appup for appup_ms&#10;Appup generation complete&#10;" />
     <MESSAGE value="michaelsimac:appup_ms michaelscharrer$ ./rebar generate -f&#10;==&gt; rel (generate)&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-upgrade previous_release=appup_ms_first&#10;==&gt; rel (generate-upgrade)&#10;appup_ms_2 upgrade package created&#10;michaelsimac:appup_ms michaelscharrer$ &#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="michaelsimac:appup_ms michaelscharrer$ ./rebar generate -f&#10;==&gt; rel (generate)&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-upgrade previous_release=appup_ms_first&#10;==&gt; rel (generate-upgrade)&#10;appup_ms_2 upgrade package created&#10;michaelsimac:appup_ms michaelscharrer$ &#10;" />
+    <MESSAGE value="(appup_ms@127.0.0.1)11&gt; release_handler:make_permanent(&quot;2&quot;).&#10;ok&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="(appup_ms@127.0.0.1)11&gt; release_handler:make_permanent(&quot;2&quot;).&#10;ok&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -723,15 +686,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src">
+    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_sup.erl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.777778">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_sup.erl">
+    <entry file="file://$PROJECT_DIR$/rel/appup_ms_first/releases/start_erl.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rebar_clone/rebar/src/rebar_rel_utils.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="88.92593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.333334">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.4444444">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rel/appup_ms_2/lib/appup_ms-2/ebin/appup_ms.appup">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -747,26 +742,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl">
+    <entry file="file://$PROJECT_DIR$/apps/appup_ms/ebin/appup_ms.appup">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.62963">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rel/appup_ms_first/releases/start_erl.data">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rebar_clone/rebar/src/rebar_rel_utils.erl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.803549">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.18872549">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
       </provider>
