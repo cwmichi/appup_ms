@@ -1,0 +1,12 @@
+{application, appup_ms,
+ [
+  {description, "Example project for appup"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { appup_ms_app, []}},
+  {env, []}
+ ]}.

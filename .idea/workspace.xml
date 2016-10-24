@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd9972d7-7f4f-4e2d-9876-ab2271749a6e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/asn1-4.0/priv/lib/asn1rt_nif.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/beam.smp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/beam" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/child_setup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer/collapsd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/crypto-3.6/priv/lib/crypto.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/crypto-3.6/priv/lib/crypto_callback.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/ct_run" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/priv/lib/dyntrace.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/epmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erl_gl.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erlang-logo32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erlang-logo64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/erlang_observer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erlc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erlexec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/escript" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer/exploded.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/heart" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/inet_gethost" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/run_erl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/to_erl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/priv/lib/trace_file_drv.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/priv/lib/trace_ip_drv.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/wxe_driver.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/crypto-3.6/priv/obj/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/OTP-PUB-KEY.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/PKCS-FRAME.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/RELEASES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app_start.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/appup_ms.boot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/appup_ms.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/files/appup_ms.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/appup_ms.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/appup_ms.rel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/appup_ms.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/appup_ms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/files/appup_ms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/appup_ms/src/appup_ms_app.erl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/appup_ms/src/appup_ms_sup.erl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/assert.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/bin/cdv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/tools-2.8/priv/cover.tool" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer.tool" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/dist.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/dist_util.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/files/erl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/erl_bits.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/erl_compile.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/et-1.5.1/include/et.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/include/etop.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/bin/etop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/file.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/gl.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/glu.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/include/httpd.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/tools-2.8/priv/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/inet.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/inet_sctp.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/install_upgrade.escript" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/files/install_upgrade.escript" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/syntax_tools-1.7/include/merl.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/conf/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/include/mod_auth.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/ms_transform.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/net_address.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/nodetool" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/files/nodetool" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/include/observer_backend.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/public_key.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/qlc.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rebar.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/reltool.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/priv/bin/runcgi.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/start" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/start_clean.boot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/start_clean.boot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/start_clean.boot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/start_clean.rel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/start_clean.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/start_erl.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/files/start_erl.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/start_erl.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/start_info.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/bin/start_webtool" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/sys.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/files/sys.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/tool_management.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/1/vm.args" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/files/vm.args" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/wx.hrl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/zip.hrl" />
+    </list>
+    <ignored path="appup_ms.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="appup_ms" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="appup_ms.app.src" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.777778">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rebar.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rebar.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2592592">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appup_ms_server.erl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_start.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app_start.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reltool.config" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rel/reltool.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08343869">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appup_ms_app.erl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_app.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appup_ms_sup.erl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_sup.erl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src" />
+        <option value="$PROJECT_DIR$/app_start.sh" />
+        <option value="$PROJECT_DIR$/rebar.config" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/rel/reltool.config" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1352" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="erts-7.0.3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="" />
+      <option name="params" value="" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangUnitRunConfigurationType" factoryName="Erlang Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <module />
+      <option name="functionNames">
+        <set />
+      </option>
+      <option name="kind" value="MODULE" />
+      <option name="moduleNames">
+        <set />
+      </option>
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="RebarEunitRunConfigurationType" factoryName="Erlang Rebar Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="" />
+      <option name="command" value="eunit" />
+      <option name="skipDependencies" value="true" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd9972d7-7f4f-4e2d-9876-ab2271749a6e" name="Default" comment="" />
+      <created>1477293876683</created>
+      <option name="number" value="Default" />
+      <updated>1477293876683</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1352" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_sup.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_app.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms.app.src">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.777778">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rebar.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2592592">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/appup_ms/src/appup_ms_server.erl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="48" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rel/reltool.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08343869">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
