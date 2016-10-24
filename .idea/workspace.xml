@@ -1,168 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd9972d7-7f4f-4e2d-9876-ab2271749a6e" name="Default" comment="vsn 2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/asn1-4.0/priv/lib/asn1rt_nif.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/asn1-4.0/priv/lib/asn1rt_nif.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/beam.smp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/beam.smp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/beam" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/beam" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/child_setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/child_setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer/collapsd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/observer-2.1/priv/crashdump_viewer/collapsd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/crypto-3.6/priv/lib/crypto.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/crypto-3.6/priv/lib/crypto.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/crypto-3.6/priv/lib/crypto_callback.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/ct_run" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/ct_run" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/runtime_tools-1.9.1/priv/lib/dyntrace.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/epmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/epmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erl_gl.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/wx-1.4/priv/erl_gl.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erlang-logo32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/wx-1.4/priv/erlang-logo32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/erlang-logo64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/wx-1.4/priv/erlang-logo64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/erlang_observer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/observer-2.1/priv/erlang_observer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erlc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/erlc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erlexec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/erlexec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/escript" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/escript" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer/exploded.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/observer-2.1/priv/crashdump_viewer/exploded.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/heart" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/heart" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/inet_gethost" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/inet_gethost" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/run_erl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/run_erl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/to_erl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/to_erl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/priv/lib/trace_file_drv.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/runtime_tools-1.9.1/priv/lib/trace_file_drv.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/priv/lib/trace_ip_drv.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/runtime_tools-1.9.1/priv/lib/trace_ip_drv.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/priv/wxe_driver.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/wx-1.4/priv/wxe_driver.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/crypto-3.6/priv/obj/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/crypto-3.6/priv/obj/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/OTP-PUB-KEY.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/public_key-1.0/include/OTP-PUB-KEY.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/PKCS-FRAME.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/public_key-1.0/include/PKCS-FRAME.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/RELEASES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/RELEASES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.boot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/appup_ms.boot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/appup_ms.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/bin/appup_ms.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.rel" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/appup_ms.rel" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.script" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/appup_ms.script" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/appup_ms" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/bin/appup_ms" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/assert.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/stdlib-2.5/include/assert.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/bin/cdv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/observer-2.1/priv/bin/cdv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/tools-2.8/priv/cover.tool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/tools-2.8/priv/cover.tool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/crashdump_viewer.tool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/observer-2.1/priv/crashdump_viewer.tool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/dist.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/kernel-4.0/include/dist.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/dist_util.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/kernel-4.0/include/dist_util.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/erl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/erl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/erl_bits.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/stdlib-2.5/include/erl_bits.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/erl_compile.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/stdlib-2.5/include/erl_compile.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/et-1.5.1/include/et.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/et-1.5.1/include/et.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/include/etop.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/observer-2.1/include/etop.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/observer-2.1/priv/bin/etop" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/observer-2.1/priv/bin/etop" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/file.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/kernel-4.0/include/file.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/gl.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/wx-1.4/include/gl.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/glu.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/wx-1.4/include/glu.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/include/httpd.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/inets-6.0/include/httpd.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/tools-2.8/priv/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/tools-2.8/priv/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/webtool-0.9/priv/root/doc/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/inet.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/kernel-4.0/include/inet.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/inet_sctp.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/kernel-4.0/include/inet_sctp.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/install_upgrade.escript" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/bin/install_upgrade.escript" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/syntax_tools-1.7/include/merl.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/syntax_tools-1.7/include/merl.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/conf/mime.types" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/webtool-0.9/priv/root/conf/mime.types" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/include/mod_auth.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/inets-6.0/include/mod_auth.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/ms_transform.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/stdlib-2.5/include/ms_transform.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/kernel-4.0/include/net_address.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/kernel-4.0/include/net_address.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/nodetool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/nodetool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/runtime_tools-1.9.1/include/observer_backend.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/runtime_tools-1.9.1/include/observer_backend.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/public_key-1.0/include/public_key.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/public_key-1.0/include/public_key.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/qlc.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/stdlib-2.5/include/qlc.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rebar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rebar_clone/rebar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/inets-6.0/priv/bin/runcgi.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/inets-6.0/priv/bin/runcgi.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/start" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/start" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/start_clean.boot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/erts-7.0.3/bin/start_clean.boot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.boot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/bin/start_clean.boot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/erts-7.0.3/bin/start_clean.boot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/start_clean.boot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.rel" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/start_clean.rel" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.script" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/start_clean.script" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/bin/start_erl.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/bin/start_erl.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/start_erl.data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/start_erl.data" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/start_info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/webtool-0.9/priv/root/doc/start_info.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/bin/start_webtool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/webtool-0.9/priv/bin/start_webtool" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/sys.config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/sys.config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/webtool-0.9/priv/root/doc/tool_management.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/webtool-0.9/priv/root/doc/tool_management.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/vm.args" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/1/vm.args" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/wx-1.4/include/wx.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/wx-1.4/include/wx.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms/lib/stdlib-2.5/include/zip.hrl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_first/lib/stdlib-2.5/include/zip.hrl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/reltool.config" afterPath="$PROJECT_DIR$/rel/reltool.config" />
+    <list default="true" id="bd9972d7-7f4f-4e2d-9876-ab2271749a6e" name="Default" comment="upgrade package">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_2.tar.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.rel" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.rel" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.script" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.script" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rebar_clone/rebar" afterPath="$PROJECT_DIR$/rebar_clone/rebar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.rel" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.rel" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.script" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.script" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="appup_ms.iws" />
@@ -653,7 +498,13 @@
       <option name="project" value="LOCAL" />
       <updated>1477297570888</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="vsn 2&#10;&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-appups previous_release=appup_ms_first&#10;==&gt; rel (generate-appups)&#10;Generated appup for appup_ms&#10;Appup generation complete&#10;">
+      <created>1477300186786</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1477300186786</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -691,7 +542,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vsn 1" />
     <MESSAGE value="vsn 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="vsn 2" />
+    <MESSAGE value="vsn 2&#10;&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-appups previous_release=appup_ms_first&#10;==&gt; rel (generate-appups)&#10;Generated appup for appup_ms&#10;Appup generation complete&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="vsn 2&#10;&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-appups previous_release=appup_ms_first&#10;==&gt; rel (generate-appups)&#10;Generated appup for appup_ms&#10;Appup generation complete&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
