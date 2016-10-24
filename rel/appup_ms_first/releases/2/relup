@@ -1,0 +1,9 @@
+{"2",
+ [{"1",[],
+   [{load_object_code,{appup_ms,"2",[appup_ms_server]}},
+    point_of_no_return,
+    {suspend,[appup_ms_server]},
+    {load,{appup_ms_server,brutal_purge,brutal_purge}},
+    {code_change,up,[{appup_ms_server,[]}]},
+    {resume,[appup_ms_server]}]}],
+ [{"1",[],[point_of_no_return]}]}.
