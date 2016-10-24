@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd9972d7-7f4f-4e2d-9876-ab2271749a6e" name="Default" comment="upgrade package">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rel/appup_ms_2.tar.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.rel" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.rel" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.script" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/appup_ms.script" />
+    <list default="true" id="bd9972d7-7f4f-4e2d-9876-ab2271749a6e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms_first/releases/RELEASES" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/RELEASES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rebar_clone/rebar" afterPath="$PROJECT_DIR$/rebar_clone/rebar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.rel" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.rel" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.script" afterPath="$PROJECT_DIR$/rel/appup_ms/releases/2/start_clean.script" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rel/appup_ms_first/releases/start_erl.data" afterPath="$PROJECT_DIR$/rel/appup_ms_first/releases/start_erl.data" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="appup_ms.iws" />
@@ -215,6 +212,86 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="releases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms_first" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="releases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appup_ms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="apps" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -261,6 +338,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rel/appup_ms_first/releases" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -504,7 +582,13 @@
       <option name="project" value="LOCAL" />
       <updated>1477300186786</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="michaelsimac:appup_ms michaelscharrer$ ./rebar generate -f&#10;==&gt; rel (generate)&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-upgrade previous_release=appup_ms_first&#10;==&gt; rel (generate-upgrade)&#10;appup_ms_2 upgrade package created&#10;michaelsimac:appup_ms michaelscharrer$ &#10;">
+      <created>1477300249247</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1477300249247</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -543,7 +627,8 @@
     <MESSAGE value="vsn 1" />
     <MESSAGE value="vsn 2" />
     <MESSAGE value="vsn 2&#10;&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-appups previous_release=appup_ms_first&#10;==&gt; rel (generate-appups)&#10;Generated appup for appup_ms&#10;Appup generation complete&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="vsn 2&#10;&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-appups previous_release=appup_ms_first&#10;==&gt; rel (generate-appups)&#10;Generated appup for appup_ms&#10;Appup generation complete&#10;" />
+    <MESSAGE value="michaelsimac:appup_ms michaelscharrer$ ./rebar generate -f&#10;==&gt; rel (generate)&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-upgrade previous_release=appup_ms_first&#10;==&gt; rel (generate-upgrade)&#10;appup_ms_2 upgrade package created&#10;michaelsimac:appup_ms michaelscharrer$ &#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="michaelsimac:appup_ms michaelscharrer$ ./rebar generate -f&#10;==&gt; rel (generate)&#10;michaelsimac:appup_ms michaelscharrer$ ./rebar generate-upgrade previous_release=appup_ms_first&#10;==&gt; rel (generate-upgrade)&#10;appup_ms_2 upgrade package created&#10;michaelsimac:appup_ms michaelscharrer$ &#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
